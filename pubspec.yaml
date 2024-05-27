@@ -1,0 +1,33 @@
+name: assignment_oct_980324106159
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.1.3 <4.0.0'
+
+dependencies:
+  dio: ^5.3.3
+  flutter:
+    sdk: flutter
+  flutter_launcher_icons: ^0.13.1
+  url_launcher: ^6.1.14
+  
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter_icons:
+  image_path: "images/logo_sub.jpg"
+  android: true
+  ios: true
+  min_sdk_android: 21
+  remove_alpha_ios: true
+  adaptive_icon_background: "#AAFFBF00"
+  adaptive_icon_foreground: "images/logo_sub.jpg"
+
+flutter:
+  uses-material-design: true
+  assets: 
+    - images/ 
