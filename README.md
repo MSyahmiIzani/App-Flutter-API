@@ -1,6 +1,6 @@
 # App Flutter test API
 
-A new Flutter project.
+A new Flutter project for my self development.
 ![image](https://github.com/MSyahmiIzani/App-Flutter-API/assets/129363824/42b654bf-e873-4f6d-acdf-fa09d920f930)
 
 
